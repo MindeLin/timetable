@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 餐廳營業時間調度程序",
+  "description": "A comprehensive interface for managing a restaurant's operating hours, including settings for dine-in, takeaway, scheduled pickup, and store delivery for each day of the week.",
+  "requestFramePermissions": []
+}
